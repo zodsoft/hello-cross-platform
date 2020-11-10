@@ -5,9 +5,6 @@ This repository is used to demonstrate how to build a cross-platform application
 https://medium.com/@huynhtanngan/cross-platform-c-c-development-android-ios-windows-macos-linux-c87cc5643950
 
 
-![Alt Text](https://thumbs.gfycat.com/ScholarlyOrneryDrongo-size_restricted.gif)
-
-
 # Software requirement
 Install python3, jinja2 https://pypi.org/project/Jinja2/
 ## MacOS/Linux
